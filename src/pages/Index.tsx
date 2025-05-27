@@ -73,7 +73,7 @@ const Index = () => {
 
       {/* Логотип в углу */}
       <div className="fixed top-4 right-4 text-yellow-400 font-mono font-bold text-xl hidden md:block">
-        UNDERTALE
+        PIXlROOM ™
       </div>
     </div>
   );
